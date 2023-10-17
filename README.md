@@ -22,6 +22,8 @@ Implementando padrões de projeto com Java puro para estudo.
   - **Singleton Eager**: O Singleton Eager cria uma única instância da classe no momento da inicialização da classe, garantindo que a instância esteja sempre disponível.
 - **Strategy**
   - exemplo utilizando implementações do comportamento de movimentação de um robô.
+- **Facade**
+  - O padrão de design Facade fornece uma interface simplificada para um conjunto de interfaces mais complexas em um sistema, tornando-o mais fácil de usar e entender.
 
 ### Tecnologias utilizadas:
 
